@@ -3,10 +3,10 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Yash Gupta",
-  initials: "DV",
+  initials: "YG",
   url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  location: "Kolkata, India",
+  locationLink: "https://www.google.com/maps/place/Kolkata",
   description:
     "Building full-stack web applications and finding solutions with tech.",
   summary:
@@ -112,6 +112,7 @@ education: [
     start: "2022",
     end: "2026",
     logoUrl: "/iem.jpg",
+    href: "https://iem.edu.in/",
   },
   {
     school: "Calcutta Public School",
@@ -119,6 +120,7 @@ education: [
     start: "2019",
     end: "2021",
     logoUrl: "/cps.jpg",
+    href: "https://calcuttapublicschools.com/",
   },
 ],
   projects: [
